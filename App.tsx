@@ -1050,66 +1050,66 @@ const locales = {
       title: "Live"
     },
     photo: {
-      title: "Photo"
+      title: "Foto"
     },
     subtitles: {
-      title: "Subtitles"
+      title: "Ondertiteling"
     },
     settings: {
-      title: "Settings",
+      title: "Instellingen",
       webApp: {
         title: "Web App",
         linkEndpoint: "Link endpoint",
         guessable:
-          "It's a good idea to choose a long and unique endpoint that's not easily guessable.",
+          "Het is een goed idee om een lange en unieke endpoint te kiezen die niet makkelijk geraden kan worden.",
         linkDetails:
-          "To use the web app, go to $LINK from your desktop web browser."
+          "Om de web app te gebruiken, ga naar $LINK met uw desktop web browser."
       },
       focus: {
         title: "Focus",
         autoFocus: {
           title: "Auto focus",
-          on: "On",
-          off: "Off"
+          on: "Aan",
+          off: "Uit"
         },
         focusDepth: {
-          title: "Focus depth",
+          title: "Focus diepte",
           details:
-            '"0" means infinite focus and "1" means focus as close as possible.'
+            '"0" betekent oneindige focus en "1" betekent focus zo dichtbij mogelijk.'
         }
       },
       subtitles: {
-        title: "Subtitles"
+        title: "Ondertiteling"
       },
       quality: {
-        title: "Quality",
-        compression: "Compression",
+        title: "Kwaliteit",
+        compression: "Compressie",
         details:
-          '"0.1" means very low quality and very high compression, and "1.0" means no compression and very high quality (but consumes more data)',
-        low: "Low quality (least data)",
-        medium: "Medium quality",
-        high: "High quality (most data)"
+          '"0.1" betekent hele lage kwaliteit en hoge compressie, and "1.0" betekent geen compressie en hele hoge kwaliteit (maar gebruikt meer data)',
+        low: "Lage kwaliteit (minste data)",
+        medium: "Medium kwaliteit",
+        high: "Hoge kwaliteit (meeste data)"
       },
       interface: {
         title: "Interface",
-        screenOn: "Keep screen on",
-        always: "Always",
+        screenOn: "Houd scherm aan",
+        always: "Altijd",
         camera: "Camera",
-        never: "Never",
-        language: "Language"
+        never: "Nooit",
+        language: "Taal"
       },
       about: {
-        title: "About"
+        title: "Over"
       },
       zoom: {
         title: "Zoom"
       },
       flash: {
-        title: "Flash",
-        auto: "Auto (based on lighting)",
-        torch: "Always on",
-        on: "On to click photo",
-        off: "Always off"
+        title: "Flits",
+        auto: "Auto (gebaseerd op licht)",
+        torch: "Altijd aan",
+        on: "Aan tijdens nemen foto",
+        off: "Altijd uit"
       }
     }
   }
